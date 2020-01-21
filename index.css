@@ -3,9 +3,18 @@ body {
 }
 
 #head1 {
-	position:       center;
+	text-align:     center;
 	color:          black;
 	font-style:     normal;
-	font-size: 		30px;
-
+	font-size: 		35px;
 }
+
+
+#info {
+	text-align:		center;
+	color: 			black;
+	font-size: 		italic;
+	font-size: 		20px;
+	font-family: 	"Times New Roman", Times, serif;
+}
+
