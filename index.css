@@ -18,3 +18,25 @@ body {
 	font-family: 	"Times New Roman", Times, serif;
 }
 
+#info2 {
+	text-align:		left;
+	color: 			black;
+	font-size: 		oblique;
+	font-size: 		25px;
+	font-family: 	"Times New Roman", Times, serif;
+}
+
+#head2 {
+	text-align: 	center;
+	color: 			black;
+	font-style: 	normal;
+	font-size: 		35px;
+}
+
+#hobby {
+	text-align: 	center;
+	color: 			black;
+	font-size: 		italic;
+	font-size: 		20px;
+	font-family: 	"Zapf Chancery", cursive;
+}
