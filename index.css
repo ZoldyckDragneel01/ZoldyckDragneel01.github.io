@@ -1,0 +1,11 @@
+body {
+	background-color: slategray;
+}
+
+#head1 {
+	position:       center;
+	color:          black;
+	font-style:     normal;
+	font-size: 		30px;
+
+}
